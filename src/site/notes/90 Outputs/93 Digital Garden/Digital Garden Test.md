@@ -4,3 +4,10 @@
 
 
 Hello World - [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
+
+``` dataview
+TABLE WITHOUT ID link(file.link, fstitle) as "Articles", dateformat(file.ctime, "dd MMM yy") as "CreatedDate", readingtime as Time
+from "99 Old/Review"
+where file.name != "_indexOf_2. fsReview"
+sort file.ctime 
+```
