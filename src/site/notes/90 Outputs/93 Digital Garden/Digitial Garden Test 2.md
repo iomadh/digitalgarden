@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"garden/Digitial Garden Test 2.md","permalink":"/garden/digitial-garden-test-2/"}
+{"dg-publish":true,"dg-path":"garden/Digitial Garden Test 2.md","permalink":"/garden/digitial-garden-test-2/","created":"","updated":""}
 ---
 
 [[90 Outputs/93 Digital Garden/Digital Garden Test\|Digital Garden Test]]
