@@ -17,21 +17,5 @@ mando no 5
 ## Reading
 
 ``` dataview
-TABLE WITHOUT ID
-
-("[[" + file.name + "|" + Title + "]]") AS Title,
-Author,
-publish-date AS "Publish date",
-("![coverImg|100](" + Cover + ")") as Cover,
-rating AS "Rating",
-Recommender,
-Comment,
-Date,
-URL
-
-FROM "99 Old/Backlog/60 Indexes/62 Books"
-
-WHERE State = "reading"
-
-SORT Title
+List from "90 Outputs/93 Digital Garden"
 ```
