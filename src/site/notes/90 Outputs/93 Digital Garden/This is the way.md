@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"//This is the way.md","permalink":"///this-is-the-way/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/This is the way.md","permalink":"//this-is-the-way/","created":"","updated":""}
 ---
 
 
@@ -13,7 +13,7 @@ mando no 6
 > Information
 
 
-test 3
+test 4
 
 ## Reading
 
@@ -24,3 +24,4 @@ test 3
 - [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
 
 { .block-language-dataview}
+
