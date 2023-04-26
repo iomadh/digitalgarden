@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/test new page.md","permalink":"//test-new-page/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/90-outputs/93-digital-garden/test-new-page/"}
 ---
 
 ``` dataview
