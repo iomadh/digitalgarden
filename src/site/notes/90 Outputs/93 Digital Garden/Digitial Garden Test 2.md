@@ -1,6 +1,21 @@
 ---
-{"dg-publish":true,"dg-path":"garden/Digitial Garden Test 2.md","permalink":"/garden/digitial-garden-test-2/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"//Digitial Garden Test 2.md","permalink":"///digitial-garden-test-2/","created":"","updated":""}
 ---
 
-[[90 Outputs/93 Digital Garden/Digital Garden Test\|Digital Garden Test]]
-[[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
+
+## heading
+
+mando no 6
+
+[[90 Outputs/93 Digital Garden/Digitial Garden Test 2\|Digitial Garden Test 2]]
+
+> [!NOTE] Note title
+> Information
+
+
+test 2 
+## Reading
+
+``` dataview
+List from "90 Outputs/93 Digital Garden"
+```
