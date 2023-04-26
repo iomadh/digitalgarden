@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"//test new page.md","permalink":"///test-new-page/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"/test new page.md","permalink":"//test-new-page/","created":"","updated":""}
 ---
 
 ``` dataview
