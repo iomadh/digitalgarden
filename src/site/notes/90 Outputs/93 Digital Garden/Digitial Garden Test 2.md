@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Digitial Garden Test 2.md","permalink":"//digitial-garden-test-2/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/90-outputs/93-digital-garden/digitial-garden-test-2/"}
 ---
 
 
