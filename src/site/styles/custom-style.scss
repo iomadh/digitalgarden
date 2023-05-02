@@ -23,7 +23,7 @@ body {
     display: grid;
     /* minmax sets the minimum width of a column. Make the columns 'skinnier' by setting 15rem to a smaller number */
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    gap: 12px;
+    gap: 10px;
 }
 
 .callout[data-callout="even-columns"]>.callout-title {
