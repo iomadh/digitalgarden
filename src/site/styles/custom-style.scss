@@ -22,7 +22,7 @@ body {
     /* Arranges the content in columns */
     display: grid;
     /* minmax sets the minimum width of a column. Make the columns 'skinnier' by setting 15rem to a smaller number */
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
     gap: 10px;
 }
 
