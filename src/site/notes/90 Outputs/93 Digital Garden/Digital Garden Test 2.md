@@ -3,6 +3,8 @@
 ---
 
 
+# Welcome
+
 ## heading
 
 mando no 6
@@ -13,9 +15,22 @@ mando no 6
 > Information
 
 
-test 2 
-## Reading
+test 4
 
-``` dataview
-List from "90 Outputs/93 Digital Garden"
-```
+## Notes
+
+- [[90 Outputs/93 Digital Garden/93 Digital Garden\|93 Digital Garden]]
+- [[90 Outputs/93 Digital Garden/Digital Garden Test 2\|Digital Garden Test 2]]
+- [[90 Outputs/93 Digital Garden/Digital Garden Test\|Digital Garden Test]]
+- [[90 Outputs/93 Digital Garden/test new page\|test new page]]
+- [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
+
+{ .block-language-dataview}
+
+### Sub Heading
+three
+
+## steal from your heros
+- [Home - Leah Ferguson](https://notes.leahferguson.com/Home#Digital%20Garden)
+- [Welcome - Eleanor's Notes - Obsidian Publish](https://publish.obsidian.md/eleanorkonik/00+Meta/03+Guidance/Welcome)
+- [Welcome! - Joschua’s Notes](https://notes.joschua.io/50+Slipbox/Welcome!)
