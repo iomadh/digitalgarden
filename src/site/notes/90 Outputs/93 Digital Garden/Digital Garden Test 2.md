@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"garden/Digital Garden Test 2.md","permalink":"/garden/digital-garden-test-2/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Digital Garden Test 2.md","permalink":"/digital-garden-test-2/","created":"","updated":""}
 ---
 
 
@@ -22,6 +22,7 @@ test 4
 - [[90 Outputs/93 Digital Garden/93 Digital Garden\|93 Digital Garden]]
 - [[90 Outputs/93 Digital Garden/Digital Garden Test 2\|Digital Garden Test 2]]
 - [[90 Outputs/93 Digital Garden/Digital Garden Test\|Digital Garden Test]]
+- [[90 Outputs/93 Digital Garden/Paris Brest Paris 2023/Getting there\|Getting there]]
 - [[90 Outputs/93 Digital Garden/test new page\|test new page]]
 - [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
 
