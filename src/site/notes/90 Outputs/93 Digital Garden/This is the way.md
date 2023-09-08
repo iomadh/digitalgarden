@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"garden/This is the way.md","permalink":"/garden/this-is-the-way/","created":"","updated":""}
+{"dg-publish":true,"dg-path":"This is the way.md","permalink":"/this-is-the-way/","created":"","updated":""}
 ---
 
 
