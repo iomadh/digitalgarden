@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-old/backlog/60-indexes/62-books/coffin-road/"}
+{"dg-publish":true,"dg-path":"Books/Coffin Road.md","permalink":"/books/coffin-road/"}
 ---
 
 # Coffin Road
@@ -21,13 +21,14 @@ Source:: #book/source/own
 Genre:: #book/genre/crime 
 Type:: #book/type/fiction 
 Pages::392
-CurrentPage:: 42
+CurrentPage:: 70
 
 ## Preview
 
 
 ## Reading Progress
 - [[10 PMS/11 Daily Notes/2024/01/2024-01-25\|2024-01-25]] p42
+- [[10 PMS/11 Daily Notes/2024/01/2024-01-26\|2024-01-26]] p70
 
 
 ## Notes
