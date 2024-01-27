@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Books/Coffin Road.md","permalink":"/books/coffin-road/"}
+{"dg-publish":true,"dg-path":"Books/Coffin Road.md","permalink":"/books/coffin-road/","title":"Coffin Road"}
 ---
 
 # Coffin Road
@@ -21,7 +21,7 @@ Source:: #book/source/own
 Genre:: #book/genre/crime 
 Type:: #book/type/fiction 
 Pages::392
-CurrentPage:: 70
+CurrentPage:: 71
 
 ## Preview
 
