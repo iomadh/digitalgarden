@@ -21,7 +21,7 @@ Source:: #book/source/own
 Genre:: #book/genre/crime 
 Type:: #book/type/fiction 
 Pages::392
-CurrentPage:: 71
+CurrentPage:: 190
 
 ## Preview
 
@@ -29,6 +29,7 @@ CurrentPage:: 71
 ## Reading Progress
 - [[10 PMS/11 Daily Notes/2024/01/2024-01-25\|2024-01-25]] p42
 - [[10 PMS/11 Daily Notes/2024/01/2024-01-26\|2024-01-26]] p70
+- [[10 PMS/11 Daily Notes/2024/01/2024-01-28\|2024-01-28]] p190
 
 
 ## Notes
