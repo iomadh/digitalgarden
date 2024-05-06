@@ -4,9 +4,16 @@
 
 # Part 0 - PBP Qualifiers and Earlier
 
-fgdfg
-
 ## 2022 Pre-qualifiers, Injury and Illness
+
+2022 was a problematic year for me and cycling.  I knew I needed to get a good pre-qualifier in so I had a better chance of 
+
+- find details  about rides
+- broken bike after och hills
+- add in back injury from george bike 
+- new bike
+- illness but successful last-minute 200.  in the end it was a lucky result as it meant I could get a 6:30 time as those getting a 400 got a later time and they opened up a few slots
+
 
 ## 2023 The Plan
 
