@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"My Current Default Apps.md","permalink":"/my-current-default-apps/","title":"My Current Default Apps"}
 ---
 
-## My default apps in  2024
+
 
 📨 **Mail Client:** *Gmail* and *Mail* (in iOS and MacOS)
 
@@ -28,7 +28,7 @@
 
 🔖 **Bookmarks:** A self-hosted instance of *LinkDing* which is similar to Pinboard but without the iffy owner.
 
-📑 **Read It Later:** This would have been *Omnivore* but the creators sold out and crashed the app.  Now, its a combo of using LinkDing and Obsidian Web Clipper
+📑 **Read It Later:** This would have been *Omnivore* but the creators sold out and crashed the app.  Now, its a combo of using LinkDing  and Obsidian Web Clipper. For long reads of online articles, I have a custom JS based script that produces an ePub to read on my *Boox*
 
 📜 **Word Processing:** Only use a word processor for work when it is *MS Word*
 
@@ -42,17 +42,19 @@
 
 📰 **News:** *BBC* (although it is biased), *The Guardian* (although it is problematic too and the Scotland coverage is pathetic), *RSS* and  *Mastodon*.  I try (and fail) to avoid it.
 
-🎵 **Music:** *Spotify* is a family account which I'd cancel if it wasn't for the kids
+🎵 **Music:** *Spotify* is a family account which I'd cancel if it wasn't for the kids, but I used *Plex* now for my music collection with a few CDs and vinyl.  Online, I buy stuff on the artists websites and *Bandcamp*.  Everything gets scrobbled to *last.fm*
 
-🎤 **Podcasts:** 
+🎤 **Podcasts:** *PocketCasts*
 
-🔐 **Password Management:** 
+**AudioBooks:** *Audible* has been replaced by *Libro.fm*
 
-⌨️ **Blogging:**
+**Books:** Paper is my preference now, and I use *Bookshop.org* or ebay/worldofbooks/whereever I can find second hand books.  I still sometimes get digital books from Amazon or Kobo - preference is DRM free but that is hard. I use the Kindle app on my *Onyx Boox Nova 3* or preferably, unDRM them using Calibre and read using *Moon+ Reader*
 
-**Health:**  
+🔐 **Password Management:** *1Password*
 
+⌨️ **Blogging:** Will try to start with *Eleventy*. This digital garden is built with an *Obsidian* plugin
 
+**Health:**  Everything is recorded to *Garmin* via either a watch or *Edge 1040* bike computer.  Socially, it's shared on *Strava* and mapping and tracking is done on *Veloviewer*
 
 📞**Video calls:** Teams
 
