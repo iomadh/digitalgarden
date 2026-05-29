@@ -263,7 +263,7 @@ views:
 
 ```
 
-Currently reading - [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
+Currently reading 2 - [[90 Outputs/93 Digital Garden/This is the way\|This is the way]]
 
 | Title | Author | Publish date | Cover | Rating | URL |
 | ----- | ------ | ------------ | ----- | ------ | --- |
